@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+.line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+}
+
+.line-mean {
+    stroke: blue;
+}
