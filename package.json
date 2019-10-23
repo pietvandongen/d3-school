@@ -1,0 +1,13 @@
+{
+  "name": "d3-school",
+  "version": "1.0.0",
+  "description": "For learning D3.js with Piet's guidance.",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Piet van Dongen",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
