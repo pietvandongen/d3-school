@@ -2,6 +2,11 @@
 
 For learning D3.js with Piet's guidance.
 
+## Requirements
+
+* [NodeJs](https://nodejs.org/en/).
+* A text editor or IDE.
+
 ## Setup
 
 Do this:
