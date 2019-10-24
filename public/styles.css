@@ -4,7 +4,7 @@ body {
 
 .line {
     fill: none;
-    stroke: black;
+    stroke: green;
     stroke-width: 1;
 }
 
