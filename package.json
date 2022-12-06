@@ -8,6 +8,6 @@
   "author": "Piet van Dongen",
   "license": "SEE LICENSE IN LICENSE.txt",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
